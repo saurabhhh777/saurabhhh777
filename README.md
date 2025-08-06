@@ -11,5 +11,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhhh777&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+---
+
+## 📦 My Open Source Pull Requests
+
+<!-- PR_TABLE_START -->
+| Sr No | Repository | PR Title | Status | Link |
+|-------|------------|----------|--------|------|
+| 1 | [dubinc/dub](https://github.com/dubinc/dub) | fix: prevent redirect loops in workspace middlewar... | ✅ Closed | [#2713](https://github.com/dubinc/dub/pull/2713) |
+| 2 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | feat: add Respond.io piece with 8 actions and 7 tr... | 🟡 Open | [#8656](https://github.com/activepieces/activepieces/pull/8656) |
+| 3 | [calcom/cal.com](https://github.com/calcom/cal.com) | fix: resolve account locking and booking modal 404... | 🟡 Open | [#22891](https://github.com/calcom/cal.com/pull/22891) |
+<!-- PR_TABLE_END -->
+
+*This table is automatically updated by GitHub Actions*
+
 
 
